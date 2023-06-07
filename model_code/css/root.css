@@ -3,10 +3,17 @@
   --cor-bg: #000000;
   --cor-dark: #0e0d0d;
   --cor-clear: #ffffff;
-  --cor-secondary: #c80101;
+  --cor-secondary: #0449cd;
+  --cor-col1: #cf6f00;
+  --cor-col2: #ee4848;
+  --cor-col3: #ce41c7;
+  --cor-col4: #9545f0;
+  --cor-col5: #6358ff;
+
 
   /* font */
   --font-primary: 'Roboto', serif;
+  --font-secondary: 'Roboto Mono', serif;
 
   /* size */
   --size-one: 20%;
@@ -14,13 +21,13 @@
   --size-three: 50%;
   --size-four: 80%;
   --size-five: 100%;
-  --size-six: 5px;
+  --size-six: 0px;
   --size-seven: 10px;
   --size-eight: 15px;
   --size-nine: 20px;
   --size-ten: 40px;
   --size-eleven: 50px;
-  --size-twelve: 70px;
+  --size-twelve: 60px;
   --size-thirteen: 90px;
   --size-fourteen: 100px;
   --size-fiveteen: 120px;
@@ -38,6 +45,7 @@
   --size-twentyseven: 400px;
   --size-twentyeight: 500px;
   --size-twentynine: 700px;
+  --size-thirty: 1366px;
 
   /* rem */
   --rem-one: 0.5rem;
